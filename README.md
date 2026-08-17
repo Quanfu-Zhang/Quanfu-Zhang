@@ -6,7 +6,7 @@
 
 Disaster & Climate Economics · Household & Labour Economics · Administrative Data · Causal Inference
 
-[Email](mailto:quanfu.zhang@vuw.ac.nz) · [GitHub](https://github.com/Quanfu-Zhang)
+[Email](mailto:quanfu.zhang@vuw.ac.nz) · [ORCID](https://orcid.org/0009-0001-7224-7606) · [University profile](https://www.wgtn.ac.nz/cedcc/our-people/quanfu-zhang) · [GitHub](https://github.com/Quanfu-Zhang)
 
 </div>
 
@@ -40,17 +40,13 @@ My work combines applied microeconomics, longitudinal data construction, and cau
 - Family labour-market responses to the Canterbury earthquakes
 - Methods for constructing longitudinal households and families from administrative data
 
-## Research outputs
+## Selected research output
 
-Publications, working papers, presentations, and reproducible public code will be linked here as they become available.
+- **New Zealand Association of Economists (NZAE) Conference, 2026** — *Household Labour and Income Adjustment after the Canterbury Earthquakes* — recipient of the **Jan Whitwell Prize**.
+
+Working papers, presentations, publications, and reproducible public code will be linked here as they become publicly available.
 
 > **Data note:** Public repositories contain only material that can be shared publicly. Restricted administrative microdata and confidential outputs are not uploaded to GitHub.
-
-## GitHub activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quanfu-Zhang&show_icons=true&hide_title=true&hide_rank=true" alt="Quanfu Zhang's GitHub statistics" />
-</p>
 
 ---
 
