@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Quanfu Zhang 👋
 
-<!--
-**Quanfu-Zhang/Quanfu-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Candidate in Economics at Victoria University of Wellington.
 
-Here are some ideas to get you started:
+I study how households and labour markets adjust to disasters and climate-related shocks, using administrative microdata and causal inference methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Disaster and climate economics
+- Labour and household economics
+- Administrative data
+- Causal inference
+
+## 🛠 Methods & Tools
+
+- SQL
+- R
+- LaTeX
+- Git & GitHub
+- Difference-in-Differences
+- Event studies
+- Matching methods
+
+## 📚 Current Research
+
+- Household economic adjustment after major disasters
+- Family labour-market responses to the Canterbury earthquakes
+
+## 📫 Contact
+
+- Victoria University of Wellington
+- GitHub: [@Quanfu-Zhang](https://github.com/Quanfu-Zhang)
